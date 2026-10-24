@@ -14,6 +14,8 @@ selected parts. A reader can display the overview immediately and load deeper ti
 
 ## Example file
 
+Download [example.cliopaint](example.cliopaint)
+
 ![Tile hierarchy](format.svg)
 
 The corresponding `manifest.json` is:
