@@ -14,7 +14,7 @@ selected parts. A reader can display the overview immediately and load deeper ti
 
 ## Example file
 
-Download [example.cliopaint](example.cliopaint)
+Download [example.cliopaint](https://github.com/ljw1004/clio-infinite-paint/raw/refs/heads/main/example.cliopaint)
 
 ![Tile hierarchy](format.svg)
 
